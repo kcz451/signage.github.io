@@ -2,20 +2,21 @@
   "slides": [
     {
       "type": "image",
-      "url": "https://github.com/kcz451/signage.github.io/blob/main/samplephoto1.jpg",
+      "url": "https://github.com/kcz451/signage.github.io/raw/refs/heads/main/samplephoto1.jpg",
       "duration": 5000
     },
     {
       "type": "video",
-      "url": "https://github.com/kcz451/signage.github.io/blob/main/samplevideo1.mp4",
+      "url": "https://github.com/kcz451/signage.github.io/raw/refs/heads/main/samplevideo1.mp4",
       "duration": 10000
     },
     {
       "type": "image",
-      "url": "https://github.com/kcz451/signage.github.io/blob/main/samplephoto2.jpg",
+      "url": "https://github.com/kcz451/signage.github.io/raw/refs/heads/main/samplephoto2.jpg",
       "duration": 5000
     }
   ]
 }
+
 
 
