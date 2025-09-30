@@ -6,17 +6,13 @@
       "duration": 5
     },
     {
-      "type": "video",
-      "url": "https://github.com/kcz451/signage.github.io/raw/refs/heads/main/samplevideo1.mp4",
-      "duration": 10
-    },
-    {
       "type": "image",
       "url": "https://github.com/kcz451/signage.github.io/raw/refs/heads/main/samplephoto2.jpg",
       "duration": 5
     }
   ]
 }
+
 
 
 
