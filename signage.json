@@ -7,7 +7,7 @@
     },
     {
       "type": "video",
-      "url": "https://raw.githubusercontent.com/username/demo-signage/main/video1.mp4",
+      "url": "https://github.com/kcz451/signage.github.io/blob/main/samplevideo1.mp4",
       "duration": 10000
     },
     {
@@ -17,4 +17,5 @@
     }
   ]
 }
+
 
