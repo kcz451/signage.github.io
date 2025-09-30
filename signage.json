@@ -1,13 +1,13 @@
 {
   "slides": [
     {
-      "type": "video",
-      "url": "https://github.com/kcz451/signage.github.io/raw/refs/heads/main/samplevideo1.mp4",
+      "type": "image",
+      "url": "https://github.com/kcz451/signage.github.io/raw/refs/heads/main/samplephoto1.jpg",
       "duration": 5
     },
     {
-      "type": "image",
-      "url": "https://github.com/kcz451/signage.github.io/raw/refs/heads/main/samplephoto1.jpg",
+      "type": "video",
+      "url": "https://github.com/kcz451/signage.github.io/raw/refs/heads/main/samplevideo1.mp4",
       "duration": 10
     },
     {
@@ -17,4 +17,5 @@
     }
   ]
 }
+
 
