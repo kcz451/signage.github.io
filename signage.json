@@ -2,7 +2,7 @@
   "slides": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/username/demo-signage/main/image1.jpg",
+      "url": "https://github.com/kcz451/signage.github.io/blob/main/samplephoto1.jpg",
       "duration": 5000
     },
     {
@@ -12,8 +12,9 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/username/demo-signage/main/image2.jpg",
+      "url": "https://github.com/kcz451/signage.github.io/blob/main/samplephoto2.jpg",
       "duration": 5000
     }
   ]
 }
+
